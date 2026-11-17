@@ -2,7 +2,7 @@
 
 A Spring Boot REST back end for a vacation booking application. Customers browse vacation packages and optional excursions, build a cart, and check out to receive an order tracking number. Designed to be consumed by an Angular front end running on `http://localhost:4200`. 
 
-Built as the back-end project for **WGU D288 Back-End Programming** course
+Built as the back-end project for **WGU course D288: Back-End Programming.**
 
 ## Tech stack
 
